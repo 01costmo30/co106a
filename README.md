@@ -14,5 +14,5 @@
 學習筆記   | [wiki](../../wiki)
 疑問解答   | [issue](https://github.com/cccnqu/co106a/issues)
 
-* 雖然在apple電腦上已經用Hardwaresimulator試過一遍，但因我并沒有把我的專案clone在上面，目前上傳的檔案是在自己的電腦上寫的，沒有用Hardwaresimulator執行過。 <br/>
+* 雖然在apple電腦上(除了DMux)已經用Hardwaresimulator試過一遍，但因我并沒有把我的專案clone在上面，目前上傳的檔案是在自己的電腦上寫的，沒有用Hardwaresimulator執行過。 <br/>
   （原本想用自己的電腦再試一遍，我卻不知該怎麽用我的電腦執行Hardwaresimulator，用chmod 777 hardwaresimulator顯示沒有chmod指令，一些零碎的方法也試過，就是無法執行QQ）
