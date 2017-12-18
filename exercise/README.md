@@ -19,17 +19,17 @@
 2    | [FullAdder](02/FullAdder.hdl)          |20170928
 2    | [Add16](02/Add16.hdl)                  |20170928
 2    | [Inc16](02/Inc16.hdl)                  |20171001
-2    | [ALU](02/ALU.hdl)                      |
-3    | [Bit](03/a/Bit.hdl)                    |
-3    | [Register](03/a/Register.hdl)          |
-3    | [RAM8](03/a/RAM8.hdl)                  |
-3    | [RAM64](03/a/RAM64.hdl)                |
-3    | [RAM16K](03/b/RAM16K.hdl)              |
-3    | [RAM4K](03/b/RAM4K.hdl)                |
-3    | [RAM512](03/b/RAM512.hdl)              |
-3    | [PC](03/a/PC.hdl)                      |
-4    | [Fill](04/fill/Fill.asm)               |
-4    | [mult](04/mult/mult.asm)               |
+2    | [ALU](02/ALU.hdl)                      |not sure when
+3    | [Bit](03/a/Bit.hdl)                    |not sure when
+3    | [Register](03/a/Register.hdl)          |not sure when
+3    | [RAM8](03/a/RAM8.hdl)                  |not sure when
+3    | [RAM64](03/a/RAM64.hdl)                |not sure when
+3    | [RAM16K](03/b/RAM16K.hdl)              |not sure when
+3    | [RAM4K](03/b/RAM4K.hdl)                |not sure when
+3    | [RAM512](03/b/RAM512.hdl)              |not sure when
+3    | [PC](03/a/PC.hdl)                      |not sure when
+4    | [Fill](04/fill/Fill.asm)               |not sure when
+4    | [mult](04/mult/mult.asm)               |not sure when
 5    | [Memory](05/Memory.hdl)                |
 5    | [CPU](05/CPU.hdl)                      |
 5    | [Computer](05/Computer.hdl)            |
